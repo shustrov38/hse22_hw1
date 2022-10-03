@@ -97,6 +97,9 @@ rm *trimmed
 
 ```bash
 Usage: ./collect seed num_pair_end num_mate_pairs
+
+./collect 1112 500000 150000
+./collect 1112 1000000 300000
 ```
 
 Выводы по контигам: 
